@@ -5,4 +5,6 @@
 3. 토끼는 랜덤으로 '가위', '바위' , '보' 중에 하나를 고르고 거북이는 아래 '가위' , '바위' , '보' 중 버튼 하나를 골라 클릭
 4. 이기면 앞으로 가고 지면 뒤로 비기면 둘다 앞으로 조금 감
 5. 먼저 결승 선에 닿으면 이김
-![실행화면](https://user-images.githubusercontent.com/91892988/138317123-0ad59607-a95c-4c5b-9c96-0b5b0f0332fb.JPG)
+
+
+![실행화면](https://user-images.githubusercontent.com/91892988/138317366-f17f055a-e88b-4bef-bd47-86fcfedaceb8.JPG)
